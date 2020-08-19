@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "films":[
+    {"id":100, "title":"STAR WARS"},
+    {"id":200,"title":"ICE AGE"}
+  ]
+  
 }
